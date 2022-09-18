@@ -1,13 +1,17 @@
+
 {
 "sites": [
-{ "key": "美少女资源", "name": "美少女资源", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "淫水机资源", "name": "淫水机资源", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "香奶儿资源", "name": "香奶儿资源", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "白嫖资源", "name": "白嫖资源", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "小湿妹资源", "name": "小湿妹资源", "type": 0, "api": "https://www.afasu.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "黄AV资源", "name": "黄AV资源", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{"key": "美少女资源站","name": "美少女资源站","type": 0,"api": "https://www.msnii.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "淫水机资源站","name": "淫水机资源站","type": 0,"api": "https://www.xrbsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "香奶儿资源站","name": "香奶儿资源站","type": 0,"api": "https://www.gdlsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "白嫖资源站","name": "白嫖资源站","type": 0,"api": "https://www.kxgav.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "小湿妹资源站","name": "小湿妹资源站","type": 0,"api": "https://www.afasu.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "黄AV资源站","name": "黄AV资源站","type": 0,"api": "https://www.pgxdy.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+
 {"key":"水蜜桃","name":"水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
 { "key": "JAV名优", "name": "JAV名优", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key": "屌丝","name": "屌丝","type": 0,"api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 { "key": "环亚资源", "name": "环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 { "key": "奶茶资源", "name": "奶茶资源", "type": 0, "api": "https://caiji.naichaapi.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 
@@ -26,95 +30,18 @@
 
 
 {"key":"乐鱼资源","name":"乐鱼资源","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-],
 
-"lives": [
-    {
-      "group": "央视",
-      "channels": [
-        {"name":"CCTV-1综合","urls":["http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8"]},
-        {"name":"CCTV-2财经","urls":["http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8"]},
-        {"name":"CCTV-3综艺","urls":["http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8"]},
-        {"name":"CCTV-4国际","urls":["http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8"]},
-        {"name":"CCTV-5体育","urls":["http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8"]},
-        {"name":"CCTV-5体育赛事","urls":["http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8"]},
-        {"name":"CCTV-6电影","urls":["http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8"]},
-        {"name":"CCTV-7军事","urls":["http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8"]},
-        {"name":"CCTV-8电视剧","urls":["http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8"]},
-        {"name":"CCTV-9纪录","urls":["http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8"]},
-        {"name":"CCTV-10科教","urls":["http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8"]},
-        {"name":"CCTV-11戏曲","urls":["http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8"]},
-        {"name":"CCTV-12社会与法","urls":["http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8"]},
-        {"name":"CCTV-13新闻","urls":["http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8"]},
-        {"name":"CCTV-14少儿","urls":["http://117.148.179.182/PLTV/88888888/224/3221231648/index.m3u8"]},
-        {"name":"CCTV-15音乐","urls":["http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8"]},
-        {"name":"CCTV-16奥林匹克","urls":["http://117.148.179.157/PLTV/88888888/224/3221233392/index.m3u8"]},
-        {"name":"CCTV-17农业农村","urls":["http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8"]},
-        {"name":"CCTV-怀旧剧场","urls":["http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8"]},
-        {"name":"CCTV-第一剧场","urls":["http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8"]},
-        {"name":"CCTV-风云剧场","urls":["http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8"]},
-        {"name":"CCTV-世界地理","urls":["http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8"]},
-        {"name":"CCTV-文化精品","urls":["http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8"]},
-        {"name":"CCTV-风云足球","urls":["http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8"]},
-        {"name":"CCTV-女性时尚","urls":["http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8"]},
-        {"name":"CCTV-央视台球","urls":["http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8"]},
-        {"name":"CCTV-央视网球","urls":["http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8"]},
-        {"name":"CGTN-法语","urls":["http://117.148.179.156/PLTV/88888888/224/3221231550/index.m3u8"]},
-        {"name":"CGTN-记录","urls":["http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8"]},
-        {"name":"清华大学","urls":["http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8"]}, 
-        {"name":"CETV-教育一台","urls":["http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8"]},
-        {"name":"CETV-教育二台","urls":["http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8"]},
-        {"name":"CETV-教育三台","urls":["http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8"]},
-        {"name":"CETV-教育四台","urls":["http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8"]}
-      ]
-    },
+
+
+
+{"key":"极速官采","name":"极速官采","type":1,"api":"http://gc.zhuijuba.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}],
+
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
+// base64(https://gitea.com/breadmyth/tv/raw/branch/main/live/huya.txt) = aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0"
+]}]}],
     
-    
-    {
-      "group": "咪咕专场",
-      "channels": [
-        {"name":"咪咕每日荐影","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751"]},
-        {"name":"咪咕云上电影","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337"]},
-        {"name":"咪咕暑期剧场","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692"]},
-        {"name":"新片放映厅","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952"]},
-        {"name":"经典贺岁片","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662"]},
-        {"name":"高清大片","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678"]},
-        {"name":"高分影院","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191"]},
-        {"name":"黄金剧场","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140"]},
-        {"name":"热剧联播","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613"]},
-        {"name":"欢笑剧场","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859"]},
-        {"name":"军旅剧场","urls":["http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8"]},
-        {"name":"高能烧脑","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365"]},
-        {"name":"追剧少女","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318"]},
-        {"name":"试胆大会","urls":["http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8"]},
-        {"name":"怀旧老片","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582"]},
-        {"name":"爱情公寓","urls":["http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8"]},
-        {"name":"午夜失眠","urls":["http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8"]},
-        {"name":"CHC动作","urls":["http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8"]},
-        {"name":"CHC家庭","urls":["http://117.148.179.160/PLTV/88888888/224/3221231799/index.m3u8"]},
-        {"name":"僵尸","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504"]},
-        {"name":"谍战","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/634274665"]},        
-        {"name":"盗墓","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181"]},  
-        {"name":"武侠","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822"]},
-        {"name":"科幻","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865"]},
-        {"name":"喜剧","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830"]},
-        {"name":"音乐","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432328"]},
-        {"name":"古龙","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313"]},
-        {"name":"金庸","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640"]},
-        {"name":"TVB","urls":["http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8"]},
-        {"name":"成龙","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890"]},
-        {"name":"吴京","urls":["http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8"]},
-        {"name":"葛优","urls":["http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8"]},
-        {"name":"杨幂","urls":["http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8"]},
-        {"name":"周星驰","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112"]},
-        {"name":"周润发","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984"]},
-        {"name":"张国荣","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526"]},
-        {"name":"郭富城","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330"]},
-        {"name":"古天乐","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610"]},
-        {"name":"刘德华","urls":["http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648"]}
-      ]
-    }
-],
+
   "parses": [
     
     {"name":"Json并发","type":2,"url":"Parallel"},
