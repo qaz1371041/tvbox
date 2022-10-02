@@ -13,7 +13,7 @@
 {"key": "富二代资源","name": "富二代资源","type": 0,"api": "http://f2dcj6.com/sapi", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "花色资源","name": "花色资源","type": 1,"api": "https://api.huasezy.xyz/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "环亚资源","name": "环亚资源","type": 0,"api": "http://wmcj8.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "皇冠资源","name": "皇冠资源","type": 0,"api": "https://hghhh.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "皇冠资源","name": "皇冠资源","type": 0,"api": "https://www.partnersky-horoskop.com/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "鸡霸资源","name": "鸡霸资源","type": 0,"api": "https://api.jibaapi.cc/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "久草资源","name": "久草资源","type": 0,"api": "http://jcspcj8.com/api", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "玖玖资源","name": "玖玖资源","type": 0,"api": "http://99zywcj.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
