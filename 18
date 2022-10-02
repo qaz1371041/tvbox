@@ -1,4 +1,3 @@
-
 {
 "sites": [
 {"key": "美少女资源站","name": "美少女资源站","type": 0,"api": "https://www.msnii.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
@@ -8,15 +7,32 @@
 {"key": "小湿妹资源站","name": "小湿妹资源站","type": 0,"api": "https://www.afasu.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "黄AV资源站","name": "黄AV资源站","type": 0,"api": "https://www.pgxdy.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 
+{"key": "爱播资源","name": "爱播资源","type": 1,"api": "https://cj1.apiabzy.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "滴滴资源","name": "滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "蛋蛋视频","name": "蛋蛋视频","type": 1,"api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "富二代资源","name": "富二代资源","type": 0,"api": "http://f2dcj6.com/sapi", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "花色资源","name": "花色资源","type": 1,"api": "https://api.huasezy.xyz/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "环亚资源","name": "环亚资源","type": 0,"api": "http://wmcj8.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "皇冠资源","name": "皇冠资源","type": 0,"api": "https://hghhh.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "鸡霸资源","name": "鸡霸资源","type": 0,"api": "https://api.jibaapi.cc/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "久草资源","name": "久草资源","type": 0,"api": "http://jcspcj8.com/api", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "玖玖资源","name": "玖玖资源","type": 0,"api": "http://99zywcj.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "乐鱼资源","name": "乐鱼资源","type": 0,"api": "https://www.leyuzyapi.com/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "狼少年","name": "狼少年","type": 0,"api": "http://cjmygzy.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "老司鸡资源","name": "老司鸡资源","type": 1,"api": "https://www.lsjapi.com/home/cjapi/asd2g8/mc10/vod/json", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "利来资源","name": "利来资源","type": 0,"api": "http://llzxcj.com/inc/sck.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "奶茶资源","name": "奶茶资源","type": 1,"api": "https://caiji.naichaapi.com/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 
 
+
+
+{"key": "水蜜桃","name": "水蜜桃","type": 0,"api": "http://51smt4.xyz/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key":"*大MM资源","name":"*大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":0,"quickSearch":0},
 { "key": "JAV名优", "name": "JAV名优", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key": "屌丝","name": "屌丝","type": 0,"api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 { "key": "环亚资源", "name": "环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 { "key": "奶茶资源", "name": "奶茶资源", "type": 0, "api": "https://caiji.naichaapi.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-
 { "key": "(SS资源", "name": "SS资源", "type": 0, "api": "http://secj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key":"大MM资源","name":"*大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":0,"quickSearch":0},
 { "key": "狼少年", "name": "狼少年", "type": 0, "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 { "key": "色猫资源", "name": "色猫资源", "type": 0, "api": "https://api.maozyapi.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key": "白嫖","name": "白嫖","type": 0,"api": "https://www.kxgav.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -26,7 +42,7 @@
 {"key":"狼少年","name":"狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"玖玖资源","name":"玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"色色资源","name":"色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"酷伦理","name":"*酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*酷伦理","name":"*酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 
 {"key":"乐鱼资源","name":"乐鱼资源","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
@@ -301,3 +317,4 @@
     "cms.qdwght.com"
   ]
 }   
+
