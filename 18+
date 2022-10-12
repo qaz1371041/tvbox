@@ -22,7 +22,7 @@
 {"key": "老司鸡资源","name": "老司鸡资源","type": 1,"api": "https://www.jsjapi.com/home/cjapi/asd2g8/mc10/vod/json", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "JAV名优馆","name": "JAV名优馆","type": 1,"api": "http://mygzycj.com/api.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "雪豹资源","name": "雪豹资源","type": 0,"api": "https://api.xbapi.cc/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key":"kd","name":"酷豆","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"kd","name":"酷豆","type":0,"api":"https://api.kdapi.info/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 
 
 
