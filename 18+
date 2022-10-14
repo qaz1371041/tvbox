@@ -7,12 +7,12 @@
 {"key": "小湿妹资源站","name": "小湿妹资源站","type": 0,"api": "https://www.afasu.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "黄AV资源站","name": "黄AV资源站","type": 0,"api": "https://www.pgxdy.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "皇冠资源","name": "皇冠资源","type": 0,"api": "https://www.partnersky-horoskop.com/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-
+{"key": "爱爱影视","name": "爱爱影视","type": 0,"api": "https://www.aiaiys.top/api.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "滴滴资源","name": "滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "蛋蛋视频","name": "蛋蛋视频","type": 1,"api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "花色资源","name": "花色资源","type": 1,"api": "https://api.huasezy.xyz/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "森林资源","name": "森林资源","type": 1,"api": "https://slapibf.com/api.php/provide/vod/?ac=list","playUrl":"https://sljxsl.com/?url=", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "皇冠资源","name": "皇冠资源","type": 0,"api": "https://www.partnersky-horoskop.com/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+
 
 {"key": "葡萄资源","name": "葡萄资源","type": 1,"api": "https://caiji.putaozy.net/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "玖玖资源","name": "玖玖资源","type": 0,"api": "http://99zywcj.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
@@ -43,7 +43,7 @@
 {"key":"狼少年","name":"狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"玖玖资源","name":"玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"色色资源","name":"色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"乐鱼资源","name":"乐鱼资源","type":0,"api":"https://www.leyuzyapi.com/inc/api.php","searchable":0,"quickSearch":0},
+
 
 
 
