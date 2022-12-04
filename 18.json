@@ -4,7 +4,7 @@
 {"key": "淫水机资源站","name": "淫水机资源站","type": 0,"api": "https://www.xrbsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "香奶儿资源站","name": "香奶儿资源站","type": 0,"api": "https://www.gdlsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "白嫖资源站","name": "白嫖资源站","type": 0,"api": "https://www.kxgav.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "小湿妹资源站","name": "小湿妹资源站","type": 0,"api": "https://www.afasu.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "小湿妹资源站","name": "小湿妹资源站","type": 1,"api": "https://www.afasu.com/api/json.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "黄AV资源站","name": "黄AV资源站","type": 0,"api": "https://www.pgxdy.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "黄色资源","name": "黄色资源","type": 1,"api": "http://hszy.vip/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },    
 {"key": "皇冠资源","name": "皇冠资源","type": 0,"api": "https://www.partnersky-horoskop.com/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
