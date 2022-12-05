@@ -34,6 +34,9 @@
 {"key": "玉兔资源","name": "玉兔资源","type": 1,"api": "https://apiyutu.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"大MM资源","name":"大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml","searchable":0,"quickSearch":0},
 { "key": "JAV名优", "name": "JAV名优", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+    
+{"key":"淫窝资源","name":"淫窝资源","type":1,"api":"https://api.yinwoapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},   
+{"key":"老鸭资源","name":"老鸭资源","type":1,"api":"http://laoyazy.vip/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},   
 
 { "key": "环亚资源", "name": "环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 { "key": "奶茶资源", "name": "奶茶资源", "type": 0, "api": "https://caiji.naichaapi.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
