@@ -48,7 +48,7 @@
 {"key": "AIvin","name": "AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
 {"key":"丝袜资源","name":"丝袜资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"狼友资源","name":"狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"泡芙资源","name":"泡芙资源","type":1,"api":"http://zmcj88.com/api?ac=list","searchable":1,"quickSearch":1},
+{"key":"泡芙资源","name":"泡芙资源","type":0,"api":"http://zmcj88.com/api?ac=list","searchable":1,"quickSearch":1},
 {"key":"9号资源","name":"9号资源","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
 
 
