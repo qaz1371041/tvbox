@@ -32,7 +32,7 @@
 {"key": "久草资源","name": "久草资源","type": 1,"api": "http://jcspcj8.com/api?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "色猫资源","name": "色猫资源","type": 1,"api": "https://caiji.semaozy.net/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "玉兔资源","name": "玉兔资源","type": 1,"api": "https://apiyutu.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key":"大MM资源","name":"大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml","searchable":0,"quickSearch":0},
+{"key":"黄瓜资源","name":"黄瓜资源","type":0,"api":"https://www.ziyuan029.com/api.php/provide/vod/at/xml","playUrl":"https://www.ziyuan029.com/player/?url=","searchable":0,"quickSearch":0},
 
 {"key":"鲨鱼资源","name":"鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"大MM资源","name":"大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":1}, 
