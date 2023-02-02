@@ -9,6 +9,7 @@
 { "key": "JAV名优", "name": "JAV名优", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 }, 
 { "key": "奶茶资源", "name": "奶茶资源", "type": 0, "api": "https://caiji.naichaapi.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "环亚","name": "环亚","type": 0,"api": "http://wmcj8.com/inc/sapi.php","searchable": 1,"quickSearch": 1,"filterable": 0}, 
+{"key": "奥斯卡资源","name": "奥斯卡资源","type": 1,"api": "http://aosikazy1.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
 {"key":"森林资源","name":"森林资源","type":1,"api":"http://www.senlinzy6.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "黄色资源","name": "黄色资源","type": 1,"api": "http://hszy.vip/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },    
 {"key": "皇冠资源","name": "皇冠资源","type": 0,"api": "https://www.partnersky-horoskop.com/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
@@ -17,7 +18,7 @@
 {"key": "蛋蛋视频","name": "蛋蛋视频","type": 1,"api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "花色资源","name": "花色资源","type": 1,"api": "https://api.huasezy.xyz/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 
-{"key": "奥斯卡资源","name": "奥斯卡资源","type": 1,"api": "https://aosikazy.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+
 {"key": "鸡霸资源","name": "鸡霸资源","type": 1,"api": "https://api.jibaapi.cc/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "葡萄资源","name": "葡萄资源","type": 1,"api": "https://caiji.putaozy.net/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "玖玖资源","name": "玖玖资源","type": 0,"api": "http://99zywcj.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
