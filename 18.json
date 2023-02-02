@@ -19,7 +19,7 @@
 {"key": "花色资源","name": "花色资源","type": 1,"api": "https://api.huasezy.xyz/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 
 
-{"key": "鸡霸资源","name": "鸡霸资源","type": 1,"api": "https://api.jibaapi.cc/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+
 {"key": "葡萄资源","name": "葡萄资源","type": 1,"api": "https://caiji.putaozy.net/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "玖玖资源","name": "玖玖资源","type": 0,"api": "http://99zywcj.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "乐鱼资源","name": "乐鱼资源","type": 1,"api": "https://www.leyuzyapi.com/inc/apijson_vod.php?ac=list","playUrl":"https://player.leyuzy.net/?url=", "searchable": 1,"quickSearch": 1, "filterable": 0 },
