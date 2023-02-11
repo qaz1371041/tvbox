@@ -27,9 +27,9 @@
 {"key":"一本道资源","name":"一本道资源","type":1,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"青青草视频","name":"青青草视频","type":1,"api":"https://www.caiji05.com/home/cjapi/cfda/mc10/vod/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"丝袜资源","name":"丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"日本AV在线","name":"日本AV在线","type":1,"api":"https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/json","searchable":1,"quickSearch":1,"filterable":1},
+
  
- {"key": "票厂影视","name": "票厂影视","type": 0,"api": "http://101.43.119.105/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+
 
 {"key": "葡萄资源","name": "葡萄资源","type": 1,"api": "https://caiji.putaozy.net/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "玖玖资源","name": "玖玖资源","type": 0,"api": "http://99zywcj.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
