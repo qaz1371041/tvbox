@@ -30,7 +30,7 @@
 {"name":"影库","key":"00影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"色窝","key":"00色窝资源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}, 
 
-{"name":"字幕网资源站","key":"字幕网资源站","type":1,"api":"https://zmwzy5.com/sapi/json?ac=videolist","searchable":1,"quickSearch":1,"filterable":1}, 
+{"name":"字幕网资源站","key":"字幕网资源站","type":1,"api":"http://zmcj88.com/sapi/json?ac=videolist","searchable":1,"quickSearch":1,"filterable":1}, 
  
 
 {"key": "葡萄资源","name": "葡萄资源","type": 1,"api": "https://caiji.putaozy.net/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
