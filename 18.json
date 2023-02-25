@@ -28,7 +28,7 @@
 {"key":"青青草视频","name":"青青草视频","type":1,"api":"https://www.caiji05.com/home/cjapi/cfda/mc10/vod/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"丝袜资源","name":"丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"影库","key":"00影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"色窝","key":"00色窝资源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}, 
+{"name":"色窝","key":"00色窝资源","type":1,"api":"https://sewozyapi.com/api.php/","searchable":1,"quickSearch":1,"filterable":1}, 
 
 {"name":"字幕网资源站","key":"字幕网资源站","type":1,"api":"http://zmcj88.com/sapi/json?ac=videolist","searchable":1,"quickSearch":1,"filterable":1}, 
  
