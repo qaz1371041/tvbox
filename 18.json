@@ -10,7 +10,7 @@
 { "key": "奶茶资源", "name": "奶茶资源", "type": 0, "api": "https://caiji.naichaapi.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "环亚","name": "环亚","type": 0,"api": "http://wmcj8.com/inc/sapi.php","searchable": 1,"quickSearch": 1,"filterable": 0}, 
 {"key": "奥斯卡资源","name": "奥斯卡资源","type": 1,"api": "http://aosikazy1.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
-{"key":"森林资源","name":"森林资源","type":1,"api":"http://www.senlinzy6.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"森林资源","name":"森林资源","type":1,"api":"https://senlinzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "黄色资源","name": "黄色资源","type": 1,"api": "http://hszy.vip/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },    
 {"key": "皇冠资源","name": "皇冠资源","type": 0,"api": "https://www.partnersky-horoskop.com/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"爱爱影视","name":"爱爱影视","type":1,"api":"http://wo.aij8.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},//(本站最新地址aays.shaoze.cc)
