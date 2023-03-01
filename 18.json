@@ -6,6 +6,7 @@
 {"key": "白嫖资源站","name": "白嫖资源站","type": 0,"api": "https://www.kxgav.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "小湿妹资源站","name": "小湿妹资源站","type": 0,"api": "https://www.afasu.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "黄AV资源站","name": "黄AV资源站","type": 0,"api": "https://www.pgxdy.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key":"秀色资源","name":"秀色资源","type":0,"api":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xmlsea/","searchable":1,"quickSearch":1,"filterable":1}, 
 { "key": "JAV名优", "name": "JAV名优", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 }, 
 { "key": "奶茶资源", "name": "奶茶资源", "type": 0, "api": "https://caiji.naichaapi.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "环亚","name": "环亚","type": 0,"api": "http://wmcj8.com/inc/sapi.php","searchable": 1,"quickSearch": 1,"filterable": 0}, 
