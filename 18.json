@@ -10,7 +10,7 @@
 {"key": "玉兔资源","name": "玉兔资源","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
 {"key": "麻豆村","name": "麻豆村","type":1,"api": "https://madoucun.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
 {"key":"森林资源","name":"森林资源","type":1,"api":"https://madoucun.com//api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"爱爱影视","name":"爱爱影视","type":1,"api":"http://222.aays111.top//api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},//(本站最新地址aays.shaoze.cc)
+{"key":"爱爱影视","name":"爱爱影视","type":1,"api":"http://www.aiaiys.xyz//api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},//(本站最新地址aays.shaoze.cc)
 {"key": "滴滴资源","name": "滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "蛋蛋视频","name": "蛋蛋视频","type": 1,"api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"伊人资源","name":"伊人资源","type":1,"api":"https://api.yirenziyuan.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
