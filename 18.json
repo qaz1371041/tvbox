@@ -16,7 +16,7 @@
 {"key": "蛋蛋视频","name": "蛋蛋视频","type": 1,"api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"伊人资源","name":"伊人资源","type":1,"api":"https://api.yirenziyuan.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "155资源","name": "155资源","type": 1,"api": "https://155api.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "滴滴资源","name": "滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/ at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "滴滴资源","name": "滴滴资源","type": 1,"api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 
 
     
