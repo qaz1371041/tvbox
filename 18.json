@@ -22,8 +22,22 @@
 {"key":"蛋蛋视频","name":"蛋蛋视频","type":1,"api":"http://156.249.29.8/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},//记住本站永久地址：9206.cc
 {"key":"雪豹资源","name":"雪豹资源","type":1,"api":"https://api.xbapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"好片资源","name":"好片资源","type":1,"api":"https://haopianapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-
-
+{"key":"花魁资源","name":"花魁资源","type":1,"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php ","searchable":1,"quickSearch":1,"filterable":1},   
+{"key":"色色吧","name":"色色吧","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","可搜索":1,"快速搜索":1,"可过滤":1},
+{"key": "宝塔资源","name": "宝塔资源","type": 1,"api": "https://baotazy.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "滴滴资源","name": "滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "蛋蛋视频","name": "蛋蛋视频","type": 1,"api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "草榴资源","name": "草榴资源","type": 1,"api": "https://www.caoliuzy.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "番号资源","name": "番号资源","type": 1,"api": "http://fhapi9.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "葡萄资源","name": "葡萄资源","type": 0,"api": "https://putaozy19.com/inc/api.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "老鸭资源","name": "老鸭资源","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "咪咪资源","name": "咪咪资源","type": 1,"api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/json", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "色色资源","name": "色色资源","type": 0,"api": "http://secj8.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "色鸭资源","name": "色鸭资源","type": 1,"api": "https://api.seyavod.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "天美AV","name": "天美AV","type": 1,"api": "https://tmav.art/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "KOK资源","name": "KOK资源","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key":"QQ传媒","name":"QQ传媒","type":1,"api":"https://qqcm.sbs/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{ "key": "鸡坤资源", "name": "鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 
 
     
