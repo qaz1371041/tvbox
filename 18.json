@@ -38,7 +38,7 @@
 {"key": "KOK资源","name": "KOK资源","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"QQ传媒","name":"QQ传媒","type":1,"api":"https://qqcm.sbs/api.php/provide/vod/","searchable":0,"quickSearch":0},
 { "key": "鸡坤资源", "name": "鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-
+{ "key": "泡芙资源", "name": "泡芙资源", "type": 1, "api": "http://zmcj88.com/api?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 
     
 {"key":"极速官采","name":"极速官采","type":1,"api":"http://gc.zhuijuba.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}],
