@@ -15,7 +15,6 @@
 {"key": "天美AV","name": "天美AV","type":1,"api": "https://tmav.art/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"青楼资源","name":"青楼资源","type":1,"api":"https://qlzy.tv/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "色南国资源","name": "色南国资源","type":1,"api": "https://api.sexnguon.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key":"色色资源","name":"色色资源","type":0,"api":"http://secj8.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "极致资源","name": "极致资源","type":1,"api": "https://jizhiapi.com/api.php/provide/vod/?ac=list  ", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"花魁资源","name":"花魁资源","type":1,"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "博天堂","name": "博天堂","type":0,"api": "http://bttcj.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
