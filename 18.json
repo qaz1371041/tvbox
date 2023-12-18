@@ -1,6 +1,6 @@
 {
 "sites": [
-{"key": "免費AV線上看","name": "免費AV線上看","type": 1,"api": "https://legallet.org/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },    
+{"key": "免費AV線上看","name": "免費AV線上看","type": 1,"api": "https://m.22see.buzz/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },    
 {"key": "美少女资源站","name": "美少女资源站","type": 0,"api": "https://www.msnii.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "淫水机资源站","name": "淫水机资源站","type": 0,"api": "https://www.xrbsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "香奶儿资源站","name": "香奶儿资源站","type": 0,"api": "https://www.gdlsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
