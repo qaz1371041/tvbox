@@ -8,7 +8,7 @@
 {"key": "白嫖资源站","name": "白嫖资源站","type": 0,"api": "https://www.kxgav.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "小湿妹资源站","name": "小湿妹资源站","type": 0,"api": "https://www.afasu.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
 {"key": "黄AV资源站","name": "黄AV资源站","type": 0,"api": "https://www.pgxdy.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
-{"key": "不卡资源站","name": "不卡资源站","type": 1,"api": "https://www.bukazyw.com/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },    
+{"key": "不卡资源站","name": "不卡资源站","type": 1,"api": "https://www.bukazy.com//api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },    
 {"key":"色鸭资源","name":"色鸭资源","type":1,"api":"https://api.seyavod.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key": "玉兔资源","name": "玉兔资源","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"老色逼资源站","name":"老色逼资源站","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},   
