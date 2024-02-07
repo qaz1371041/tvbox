@@ -13,7 +13,7 @@
 {"key": "玉兔资源","name": "玉兔资源","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"老色逼资源站","name":"老色逼资源站","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},   
 {"key": "森林资源","name": "森林资源","type":1,"api": "https://senlinzy2.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "博民资源","name": "博民资源","type":1,"api": "https://www.bominzy.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "博民资源","name": "博民资源","type":1,"api": "http://bominzy6.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "极致资源","name": "极致资源","type":1,"api": "https://jizhiapi.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "富二代资源","name": "富二代资源","type":0,"api": "http://f2dcj6.com/sapi?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },    
 {"key":"好片资源","name":"好片资源","type":1,"api":"https://haopianapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
