@@ -41,7 +41,7 @@
 {"key": "色鸭资源","name": "色鸭资源","type": 1,"api": "https://api.seyavod.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "KOK资源","name": "KOK资源","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"博民资源","name":"博民资源","type":1,"api":"https://www.bominzy.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0},   
-{"key":"极速官采","name":"极速官采","type":1,"api":"http://gc.zhuijuba.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}],
+{"key":"极速官采","name":"极速官采","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1}],
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 // base64(https://gitea.com/breadmyth/tv/raw/branch/main/live/huya.txt) = aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0
