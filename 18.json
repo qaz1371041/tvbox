@@ -1,8 +1,8 @@
 {
 "sites": [
-{"key": "免費AV線上看","name": "免費AV線上看","type": 1,"api": "https://c.mdvod.cc/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },  //https://seajav.gitbook.io/untitled/
+{"key": "免費AV線上看","name": "精品x资源","type": 1,"api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },  
 {"key": "爱爱影视","name": "爱爱影视","type": 1,"api": "http://www.shangaiys.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 }, //https://aays.vip/   
-{"key": "美少女资源站","name": "美少女资源站","type": 0,"api": "https://www.msnii.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "美少女资源站","name": "美少女资源站","type": 1,"api": "https://www.msnii.com/api/json.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "淫水机资源站","name": "淫水机资源站","type": 0,"api": "https://www.xrbsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "香奶儿资源站","name": "香奶儿资源站","type": 0,"api": "https://www.gdlsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "白嫖资源站","name": "白嫖资源站","type": 0,"api": "https://www.kxgav.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
