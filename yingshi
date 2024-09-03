@@ -38,15 +38,7 @@
 				"分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
 			}
 		},
-             {    "key": "csp_APP_零一",
-                "name": "⛳┃零一┃APP",
-                "type": 3,
-           "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cmsty2.lyyytv.cn/api.php/app/"
-        },
+             
 		{
 			"key": "XBPQ_黑狐影院",
 			"name": "🌤┃黑狐影院|XB",
